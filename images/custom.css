@@ -328,7 +328,7 @@ div.bg {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url(https://raw.githubusercontent.com/Gardennias/Personal-gallery/main/images/longmao2.jpg) no-repeat center center;
+  background: url(https://cdn.jsdelivr.net/gh/Gardennias/Personal-gallery@main/images/longmao2.jpg) no-repeat center center;
   background-size: cover;
 }
 .dimmer{
@@ -344,7 +344,7 @@ div.bg {
   background-color: rgba(0, 0, 0, .6);
 }
 .night div.bg {
-  background: url(https://raw.githubusercontent.com/Gardennias/Personal-gallery/main/images/longmao3.jpg) no-repeat center center;
+  background: url(https://cdn.jsdelivr.net/gh/Gardennias/Personal-gallery@main/images/longmao3.jpg) no-repeat center center;
   background-size: cover
 }
 
