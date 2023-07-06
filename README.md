@@ -16,9 +16,13 @@
 
      - > PicGo中内置的Github图床支持，但是**不支持同步删除**，所以推荐`github-plus`
 
-     自定义域名设置：https://cdn.jsdelivr.net/gh/用户名/仓库名
+     自定义域名设置：https://cdn.jsdelivr.net/gh/用户名/仓库名@latest
 
-     [![img](https://cdn.jsdelivr.net/gh/Gardennias/Personal-gallery@main/images/202108231735360.png)](https://cdn.jsdelivr.net/gh/Gardennias/Personal-gallery@main/images/202108231735360.png)
+     > jsDelivr 缓存刷新方式 https://cdn.jsdelivr.net/ `替换` 成 https://purge.jsdelivr.net/ 
+     >
+     > 即可实时刷新。刷新成功后，浏览器会返回缓存刷新成功的信息
+
+     [![img](https://cdn.jsdelivr.net/gh/Gardennias/Personal-gallery@latest/images/202108231735360.png)](https://cdn.jsdelivr.net/gh/Gardennias/Personal-gallery@main/images/202108231735360.png)
 
    - 设置Typora
 
